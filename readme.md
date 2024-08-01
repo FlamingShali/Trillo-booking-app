@@ -1,0 +1,1 @@
+Important! - I am not the initiator of this project. It is made as a part of the React course. With permission of the author, I use it ONLY as an adition to my portfolio.
